@@ -106,7 +106,7 @@ def train_encoder(args):
     n_regions = 116 # number of regions acquired by using the atlas
 
 
-    with open('../inputs/FBIRN/data.npz', 'rb') as file:
+    with open('../inputs/FBIRN/data.npz', 'rb') as file: ## input data, should be (subjects,n_regions,tc)
         data = np.load(file)
 
 
