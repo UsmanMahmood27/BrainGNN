@@ -1,0 +1,8 @@
+README.md
+setup.py
+BrainGNN/__init__.py
+BrainGNN.egg-info/PKG-INFO
+BrainGNN.egg-info/SOURCES.txt
+BrainGNN.egg-info/dependency_links.txt
+BrainGNN.egg-info/requires.txt
+BrainGNN.egg-info/top_level.txt
